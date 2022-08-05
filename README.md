@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mdyasir25
-- 👀 I’m interested in C#.NET, ASP.NET Core, HTML, CSS, JavaScript
-- 🌱 I’m currently learning API Development in ASP.NET Core
+- 👋 Hi, I’m Md Yasir from India. I am 2021 engineering graduate.
+- 👀 I’m interested in C#.NET, ASP.NET Core, HTML, CSS, JavaScript.
+- 🌱 I’m currently learning API Development in ASP.NET Core.
 - 💞️ I’m looking to collaborate on open source project. I am new here so I need guidance to work on open source projects.
 - 📫 How to reach me : Mail me at mdyasir25@gmail.com
 
